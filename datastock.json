@@ -1,0 +1,51 @@
+[
+    {
+        "id":"1",
+        "artist" : "Mocca",
+        "album" : "Lima(CD)",
+        "stock" : "15",
+        "foto" : "a4.png"
+    },
+    {
+        "id": "2",
+        "artist" : "Mocca",
+        "album" : "Lima(Vinyl)",
+        "stock" : "7",
+        "foto" : "a4.png"
+    },
+    {
+        "id": "3",
+        "artist" : "Vira Talisa",
+        "album" : "Primavera(CD)",
+        "stock" : "12",
+        "foto" : "a5.png"
+    },
+    {
+        "id": "4",
+        "artist" : "Isyana Sarasvati",
+        "album" : "Lexicon(CD)",
+        "stock" : "10",
+        "foto" : "a7.png"
+    },
+    {
+        "id": "5",
+        "artist" : "Kunto Aji",
+        "album" : "Mantra Mantra(CD)",
+        "stock" : "12",
+        "foto" : "a8.png"
+    },
+    {
+        "id": "6",
+        "artist" : "Sheila Majid",
+        "album" : "Dimensi Baru(Cassette)",
+        "stock" : "2",
+        "foto" : "h2.png"
+    },
+    {
+        "id": "7",
+        "artist" : "Sore",
+        "album" : "Centralismo(Vinyl)",
+        "stock" : "5",
+        "foto" : "cover.png"
+    }
+]
